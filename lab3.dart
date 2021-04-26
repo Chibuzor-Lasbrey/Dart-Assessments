@@ -1,5 +1,4 @@
 // A dart program that uses listed data for student data to calculate CGPA and CGPA percentage using set formulas
-PA 
 import 'dart:io';
 //declaration of variables
 var grade = [90, 80, 70, 80, 90];
